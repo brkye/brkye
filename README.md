@@ -1,2 +1,2 @@
-Hi there, I am Berkay Ayçiçek from Turkey.
-My department is Computer Science and I am freshman student at Bilkent University.
+Hi there, I am Berkay Ayçiçek.
+My department is Computer Science and I am a sophomore student at Bilkent University.
